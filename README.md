@@ -12,7 +12,7 @@
 ## Usage
 
 ```bash
-git clone https://github.com/anubhavanonymous/HostOnion
+git clone https://github.com/Ktm2590/HostOnion.git
 ```
 
 ```bash
