@@ -1,5 +1,5 @@
 #!bin/bash
-#Coded by Anubhav Kashyap
+#Coded by TRHACKNON
 #Don't Try to Steal it Bitch !!!
 apt install figlet
 clear
